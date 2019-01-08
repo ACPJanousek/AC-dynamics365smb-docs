@@ -20,11 +20,11 @@ Registration of sales (EET) is registration of sales coming from business activi
 
 Payment methods included in EET:
 
-*   in cash  
-*   by card  
-*   check  
-*   bill of Exchange  
-*   other similar types like gift cards, coupons, bitcoin etc.  
+*   In cash  
+*   By card  
+*   Check  
+*   Bill of Exchange  
+*   Other similar types like gift cards, coupons, bitcoin etc.  
 
 For more information see official portal [www.etrzby.cz](http://www.etrzby.cz).  
 
@@ -51,4 +51,4 @@ With posting of defined documents (and with defined payment method) is created E
 
 ## See Also
 [Czech Local Functionality](czech-local-functionality.md)  
-[Finance](finance.md)  
+[Finance](../../finance.md) 

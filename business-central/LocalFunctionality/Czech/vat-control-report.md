@@ -29,4 +29,4 @@ The [!INCLUDE[d365fin](../../includes/d365fin_md.md)] functionality has been ext
 
 ## See also
 [Czech Local Functionality](czech-local-functionality.md)  
-[Finance](finance.md)  
+[Finance](../../finance.md) 
